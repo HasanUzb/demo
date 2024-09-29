@@ -14,3 +14,4 @@ N = random.choice(c)
 b = a(N)
 print(f"Random ro'yxat: {c}")
 print(f"N: {N}, Tub sonlar: {b}")
+# bu masala javobi togri chiqdi
